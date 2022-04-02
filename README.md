@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
+![](https://minersutep-my.sharepoint.com/:i:/g/personal/zgomez4_miners_utep_edu/EZvWdVSVZ1FNroACzbBpDFsB9A1ZOIosjajzLJ_KHD1umg?e=ZhrbCK)
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
@@ -62,7 +62,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.youtube.com/watch?v=O24Yw3dsXjU)
 
 
 ## License
